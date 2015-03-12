@@ -14,7 +14,7 @@
 #include <rubysig.h>
 #include <ruby/node.h>
 #include <signal.h>
-#include "RubyFix.h" // <-- probably not compiling anymore due to this
+#include "RubyFix.h"
 
 #define BBSRUBY_MAJOR_VERSION (0)
 #define BBSRUBY_MINOR_VERSION (3)
